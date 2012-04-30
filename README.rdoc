@@ -1,4 +1,4 @@
-= usc_game
+= usc_game (hi)
 
 Description goes here.
 
